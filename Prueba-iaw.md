@@ -1,3 +1,4 @@
+```PowerShell
 $titulos = echo "Bolsa"
 
 Foreach ($reloj in $titulos){
@@ -40,5 +41,6 @@ php.exe C:\xampp\php\wp-cli.phar post create --post_title="$hora" --post_content
 rm .\Nombres.txt
 rm .\sample.txt
  Start-Sleep -Seconds 86.400
-
 }
+
+```
